@@ -21,7 +21,7 @@
 </div></br>
 
 
-### 📚 Studying
+## 📚 Studying
    <!-- Programming Studying -->
 
 <div style="display: inline_block">
